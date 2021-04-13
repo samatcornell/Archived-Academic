@@ -7,4 +7,4 @@ P1, P2 - Technical reports (writing samples) (2020)
 
 Deliverable6 - postprocessing hardware HR data (2020)
 
-Gate Folder - Gata Analysis with data from ImageJ and Sensors (2019)
+Angles Algorithm - Gata Analysis with data from ImageJ and EMG Sensors (2019)
